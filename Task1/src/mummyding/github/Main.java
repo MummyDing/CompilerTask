@@ -19,6 +19,6 @@ public class Main {
         // function 4: find common sub string (with max length)
         System.out.println(TextUtil.findMaxCommonString("12121,12121,21211122122","32121111221"));
         // function 5: reverse words
-        System.out.print(TextUtil.reverseWords("I am come from China!"));
+        System.out.println(TextUtil.reverseWords("I am come from China!"));
     }
 }
