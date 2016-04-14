@@ -1,6 +1,7 @@
 
 2 begin
 2 var
+3 　
 2 real
 5 :
 5 ;

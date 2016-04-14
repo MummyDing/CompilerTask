@@ -1,9 +1,10 @@
-package mummyding.github.util;
+package mummyding.github;
 
 /**
  * Created by mummyding on 16-4-4.
  */
-public class TextUtil { public static String UpperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+public class TextUtil {
+    public static String UpperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     public static String LowerCase = "abcdefghijklmnopqrstuvwxyz";
     public static String DIGIT = "0123456789.";
     public static boolean isNull(String str){

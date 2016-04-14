@@ -4,11 +4,13 @@ package mummyding.github;
 import mummyding.github.util.FileUtil;
 import mummyding.github.util.LexUtil;
 
+import java.util.Arrays;
+
 /**
  * @author MummyDing
  * @date 04/04/2016
  * @GitHub https://github.com/MummyDing/CompilerTask
- * @Blog http://blog.csdn.net/mummyding
+ * @Blog http://blog.csdn.net/mummydingdd
  */
 
 
